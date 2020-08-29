@@ -1,0 +1,3 @@
+Cluster Index	Value	x	y	z	
+2	5.22	-58	4	-2
+1	5.17	64	-18	6

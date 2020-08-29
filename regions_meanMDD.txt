@@ -1,0 +1,56 @@
+=====[ cope1.feat/thresh_zstat3.nii.gz | Harvard-Oxford Cortical Structural Atlas ]=====
+ClusterIndex	Voxels	MAX	MAX X (mm)	MAX Y (mm)	MAX Z (mm)	COG X (mm)	COG Y (mm)	COG Z (mm)
+2	2382	5.17	64	-18	6	56.2	-17.5	6.7
+1	2282	5.22	-58	4	-2	-52.8	-19.6	7.22
+------------------------------------------
+Structures to which each center of mass belongs to:
+2,56.2,-17.5,6.7,Harvard-Oxford Cortical Structural Atlas,32% Planum Temporale, 20% Heschl's Gyrus (includes H1 and H2), 2% Central Opercular Cortex, 1% Planum Polare
+1,-52.8,-19.6,7.22,Harvard-Oxford Cortical Structural Atlas,44% Heschl's Gyrus (includes H1 and H2), 15% Planum Temporale, 9% Central Opercular Cortex, 2% Planum Polare, 1% Parietal Operculum Cortex
+------------------------------------------
+Structures to which each cluster belongs to:
+
+Cluster #2
+Insular Cortex:1.5080
+Inferior Frontal Gyrus, pars triangularis:0.0004
+Inferior Frontal Gyrus, pars opercularis:0.0672
+Precentral Gyrus:0.3119
+Temporal Pole:2.8417
+Superior Temporal Gyrus, anterior division:2.5046
+Superior Temporal Gyrus, posterior division:10.5751
+Middle Temporal Gyrus, anterior division:0.1537
+Middle Temporal Gyrus, posterior division:0.7792
+Middle Temporal Gyrus, temporooccipital part:0.3577
+Postcentral Gyrus:0.5441
+Supramarginal Gyrus, anterior division:0.6545
+Supramarginal Gyrus, posterior division:3.0579
+Angular Gyrus:0.2191
+Frontal Orbital Cortex:0.0210
+Frontal Operculum Cortex:0.0252
+Central Opercular Cortex:6.6537
+Parietal Operculum Cortex:6.1793
+Planum Polare:4.6486
+Heschl's Gyrus (includes H1 and H2):7.7305
+Planum Temporale:11.9043
+
+Cluster #1
+Insular Cortex:1.6652
+Inferior Frontal Gyrus, pars triangularis:0.0004
+Inferior Frontal Gyrus, pars opercularis:0.1586
+Precentral Gyrus:1.2840
+Temporal Pole:2.3514
+Superior Temporal Gyrus, anterior division:2.7485
+Superior Temporal Gyrus, posterior division:6.7791
+Middle Temporal Gyrus, anterior division:0.1245
+Middle Temporal Gyrus, posterior division:0.1499
+Middle Temporal Gyrus, temporooccipital part:0.0530
+Postcentral Gyrus:0.7581
+Supramarginal Gyrus, anterior division:0.8247
+Supramarginal Gyrus, posterior division:2.0057
+Angular Gyrus:0.2515
+Frontal Orbital Cortex:0.0066
+Frontal Operculum Cortex:0.0486
+Central Opercular Cortex:7.3975
+Parietal Operculum Cortex:7.6477
+Planum Polare:6.7993
+Heschl's Gyrus (includes H1 and H2):8.2423
+Planum Temporale:13.4110

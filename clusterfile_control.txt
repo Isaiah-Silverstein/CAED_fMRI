@@ -1,0 +1,10 @@
+Cluster Index	Voxels	P	-log10(P)	MAX	MAX X (mm)	MAX Y (mm)	MAX Z (mm)	COG X (mm)	COG Y (mm)	COG Z (mm)
+9	33	nan	-nan	5.55	50	-6	2	51.8	-6.07	3.39
+8	6	nan	-nan	5.36	58	-28	14	57	-27.7	14.7
+7	4	nan	-nan	5.09	50	-12	8	50	-13	8.99
+6	2	nan	-nan	5.08	60	-10	0	59	-9	-0.997
+5	2	nan	-nan	5.09	-56	-4	2	-56	-4	1
+4	1	nan	-nan	4.99	60	-6	2	60	-6	2
+3	1	nan	-nan	5.06	-58	-18	6	-58	-18	6
+2	1	nan	-nan	5.09	60	-16	6	60	-16	6
+1	1	nan	-nan	5.24	62	-28	10	62	-28	10
